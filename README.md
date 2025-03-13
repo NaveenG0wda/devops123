@@ -1,47 +1,19 @@
-# Nike Shoe Store Website
+# Shoo Store - E-commerce Website
 
-### *Shoe Showcasing Website for Nike template, I Developed for Practicing purpose.*
+Shoo is a fully responsive landing page for an online shoe store. The code is written purely with HTML, CSS, and JavaScript.
 
+Go to website: https://seliun.github.io/Web-Development-Bootcamp-Website/
 
+## ✨ How It Looks:
 
-# Video
-https://youtu.be/vhnFcb4cf7I
+### Desktop ⬇️
 
+![Shoo Store Landing Page](Website-Image/desktop_1.png)
 
-# HOMEPAGE
-<img src='/images/NikeSite.png'/>
+![Shoo Store Landing Page](Website-Image/desktop_2.png)
 
+### Mobile ⬇️
 
-### :link:link : https://nike-shoe-store.netlify.app/
+![Shoo Store Landing Page](Website-Image/mobile_1.png)
 
-
-## Features
-
-- View Products
-- Add products to cart
-- Delete products from cart
-- Form Validation
-- Accessibility Optimized
-- Mobile Responsive
-
-## Run Locally 
-
-- Run this command `git clone https://github.com/developer-junaid/Nike-Shoe-Store.git`
-- You are now in the dev environment and you can play around 
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- Javascript ES6
-- React js
-- Material UI
-- Redux
-- React-Redux
-- Redux-Toolkit
-- Context API
-- Formik
-- Yup
-- react-horizontal-stepper (for stepper)
-- Netlify
-- Github Actions
+![Shoo Store Landing Page](Website-Image/mobile_2.png)
